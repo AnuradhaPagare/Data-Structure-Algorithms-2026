@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0010-regular-expression-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
