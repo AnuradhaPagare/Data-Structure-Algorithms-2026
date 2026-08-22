@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
