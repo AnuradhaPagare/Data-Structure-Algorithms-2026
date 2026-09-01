@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0016-3sum-closest) |
+| [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 ## Binary Search
 |  |
 | ------- |
