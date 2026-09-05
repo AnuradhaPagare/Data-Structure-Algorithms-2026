@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
