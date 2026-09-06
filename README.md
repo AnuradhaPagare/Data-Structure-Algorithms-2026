@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 ## Binary Search
 |  |
 | ------- |
