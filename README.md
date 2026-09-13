@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0057-insert-interval) |
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
 ## Bracket Sequences
 |  |
