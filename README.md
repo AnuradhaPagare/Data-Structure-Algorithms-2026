@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
+| [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0069-sqrtx) |
+| [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
