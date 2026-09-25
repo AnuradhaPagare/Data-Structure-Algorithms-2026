@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3870-count-commas-in-range) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
