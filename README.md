@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
 ## Recursion
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
+| [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0303-range-sum-query-immutable) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
