@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0023-merge-k-sorted-lists) |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0303-range-sum-query-immutable) |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -267,4 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
