@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0231-power-of-two) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
