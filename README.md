@@ -401,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
