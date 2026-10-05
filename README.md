@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
