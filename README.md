@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0057-insert-interval) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
