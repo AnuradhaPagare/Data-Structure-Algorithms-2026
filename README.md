@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 ## DP on Trees
