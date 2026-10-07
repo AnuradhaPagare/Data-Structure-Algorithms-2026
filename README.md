@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
