@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0171-excel-sheet-column-number) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
