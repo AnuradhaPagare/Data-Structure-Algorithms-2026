@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0171-excel-sheet-column-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0068-text-justification) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 ## Backtracking
