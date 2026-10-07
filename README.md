@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0056-merge-intervals) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0202-happy-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
