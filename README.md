@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0069-sqrtx) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
