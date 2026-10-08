@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0171-excel-sheet-column-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0202-happy-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1052-grumpy-bookstore-owner) |
