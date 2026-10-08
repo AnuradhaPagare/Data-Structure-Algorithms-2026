@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 ## DP on Trees
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
