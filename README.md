@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
