@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
