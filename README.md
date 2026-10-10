@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0507-perfect-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
