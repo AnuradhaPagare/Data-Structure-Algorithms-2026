@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
