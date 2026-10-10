@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
