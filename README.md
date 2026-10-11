@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
