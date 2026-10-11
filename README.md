@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0507-perfect-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
