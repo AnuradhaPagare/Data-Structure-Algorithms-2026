@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -486,10 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
