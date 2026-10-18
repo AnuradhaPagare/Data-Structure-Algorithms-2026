@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3870-count-commas-in-range) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
 ## Recursion
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -392,12 +396,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -447,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -490,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 ## Binary Indexed Tree
 |  |
@@ -565,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Database
 |  |
 | ------- |
@@ -609,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -623,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2778-sum-of-squares-of-special-elements) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
