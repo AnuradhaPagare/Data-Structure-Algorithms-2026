@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
 |  |
 | ------- |
