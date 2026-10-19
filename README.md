@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 ## Binary Indexed Tree
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 ## Algorithm X
 |  |
 | ------- |
