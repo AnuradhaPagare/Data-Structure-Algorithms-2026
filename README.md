@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2706-buy-two-chocolates) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3886-sum-of-sortable-integers) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
