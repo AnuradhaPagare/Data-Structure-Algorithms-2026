@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0205-isomorphic-strings) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 ## Binary Search
