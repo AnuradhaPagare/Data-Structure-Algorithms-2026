@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -678,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
