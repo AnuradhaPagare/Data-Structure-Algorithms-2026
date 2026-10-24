@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0693-binary-number-with-alternating-bits) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
