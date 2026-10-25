@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -699,4 +701,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
