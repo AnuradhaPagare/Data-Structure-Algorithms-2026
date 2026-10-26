@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0643-maximum-average-subarray-i) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3794-reverse-string-prefix) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2706-buy-two-chocolates) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 ## Interactive
 |  |
 | ------- |
