@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0434-number-of-segments-in-a-string) |
 | [0819-most-common-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0819-most-common-word) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
