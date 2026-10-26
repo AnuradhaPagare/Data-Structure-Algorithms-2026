@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3886-sum-of-sortable-integers) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
