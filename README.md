@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0409-longest-palindrome) |
 | [0819-most-common-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0461-hamming-distance) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
