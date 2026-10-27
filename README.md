@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
