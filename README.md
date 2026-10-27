@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0575-distribute-candies) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0404-sum-of-left-leaves) |
+| [0463-island-perimeter](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0404-sum-of-left-leaves) |
+| [0463-island-perimeter](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
