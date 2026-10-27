@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0643-maximum-average-subarray-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0495-teemo-attacking) |
 ## Backtracking
 |  |
 | ------- |
