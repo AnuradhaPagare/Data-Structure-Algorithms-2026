@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0137-single-number-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0322-coin-change) |
