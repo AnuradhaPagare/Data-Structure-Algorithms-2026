@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0219-contains-duplicate-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0231-power-of-two) |
