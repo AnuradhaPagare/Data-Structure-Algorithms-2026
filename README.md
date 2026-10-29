@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
+| [0566-reshape-the-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0566-reshape-the-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
