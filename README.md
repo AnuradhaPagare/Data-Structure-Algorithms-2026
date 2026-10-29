@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3794-reverse-string-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3794-reverse-string-prefix) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0693-binary-number-with-alternating-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -614,11 +620,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
