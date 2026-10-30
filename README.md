@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0575-distribute-candies) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0506-relative-ranks) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
