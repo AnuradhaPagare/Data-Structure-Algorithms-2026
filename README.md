@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0504-base-7) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -672,10 +674,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 ## Trie
 |  |
