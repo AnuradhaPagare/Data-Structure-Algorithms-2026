@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0819-most-common-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0819-most-common-word) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
