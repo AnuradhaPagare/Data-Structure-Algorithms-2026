@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0541-reverse-string-ii) |
 | [0819-most-common-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0819-most-common-word) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0541-reverse-string-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3794-reverse-string-prefix) |
