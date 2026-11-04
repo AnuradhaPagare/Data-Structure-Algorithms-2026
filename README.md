@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0326-power-of-three) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0283-move-zeroes) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0496-next-greater-element-i) |
