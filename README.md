@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
 | [3665-twisted-mirror-path-count](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
@@ -626,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
 | ------- |
