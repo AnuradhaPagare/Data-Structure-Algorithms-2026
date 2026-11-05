@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1052-grumpy-bookstore-owner) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0541-reverse-string-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3794-reverse-string-prefix) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0506-relative-ranks) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
