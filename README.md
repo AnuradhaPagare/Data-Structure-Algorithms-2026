@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3592-inverse-coin-change) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## DP on Trees
 |  |
 | ------- |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2424-longest-uploaded-prefix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0496-next-greater-element-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -852,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -860,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
