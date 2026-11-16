@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3794-reverse-string-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3794-reverse-string-prefix) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0566-reshape-the-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
