@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0511-game-play-analysis-i) |
+| [0610-triangle-judgement](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0610-triangle-judgement) |
 ## Quicksort
 |  |
 | ------- |
