@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0455-assign-cookies) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
