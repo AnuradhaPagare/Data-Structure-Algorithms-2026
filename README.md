@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0819-most-common-word) |
 | [1392-longest-happy-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0806-number-of-lines-to-write-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1052-grumpy-bookstore-owner) |
