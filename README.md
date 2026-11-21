@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3794-reverse-string-prefix](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3794-reverse-string-prefix) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnuradhaPagare/Data-Structure-Algorithms-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
